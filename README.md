@@ -4,7 +4,8 @@ Done:<br />
 * Set: SADD, SREM, SMEMBERS, SINTERS<br />
 * DATA EXPIRATION: KEYS, DEL, EXPIRE, TTL<br />
 NOT Done:<br />
-Snap Shot and Test with Jest<br />
+* Snap Shot<br />
+* Test with Jest<br />
 
 --------------------------------------------------------------<br />
 Thinking process for each functions:<br />
